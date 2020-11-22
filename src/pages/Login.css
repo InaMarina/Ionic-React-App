@@ -1,0 +1,8 @@
+.imageLogin {
+  margin-top: 20px;
+}
+.centerLogin {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
